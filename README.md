@@ -1,26 +1,14 @@
 ### Hi there, I'm Darrel! 👋
-#### *Aspiring Software Engineer & Frontend Specialist*
+#### *Aspiring Quant Developer & Energy Engineer*
 
-I'm a 15-year-old developer from Indonesia. I might be young, but I'm disciplined. I focus on building **Pixel-Perfect** interfaces with React and robust automation bots with Python.
+I am a High School student at **SMA Labschool Ciracas** with a strong focus on **Computational Finance** and **Renewable Energy Systems**. My work bridges the gap between software engineering and physical hardware, applying algorithms to solve real-world problems in trading and energy efficiency.
 
 ---
 
-### 🛠️ The Arsenal (Tech Stack)
+### 💻 Technical Proficiency
 
-| Category | Technology |
+| Domain | Technology Stack |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white) |
-| **Tools** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white) |
-
----
-
-### 🔭 Currently Working On
-- **Crypto Algo-Trading Bot:** An automated trading engine built with Python & CCXT to handle market volatility.
-- **Pixel-Perfect Clone:** Rebuilding complex UI designs (Spotify/Netflix) using React & Tailwind to sharpen my frontend skills.
-
----
-
-### 📊 GitHub Stats
-![DarrelDev's Stats](https://github-readme-stats.vercel.app/api?username=DarrelDev&show_icons=true&theme=tokyonight&hide_border=true)
+| **Quant Finance** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white) ![CCXT](https://img.shields.io/badge/CCXT-Library-black) |
+| **System Engineering** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
