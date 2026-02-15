@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi there, I'm Darrel! 👋
+#### *Aspiring Software Engineer & Frontend Specialist*
 
-<!--
-**DarrelDev/DarrelDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 15-year-old developer from Indonesia. I might be young, but I'm disciplined. I focus on building **Pixel-Perfect** interfaces with React and robust automation bots with Python.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ The Arsenal (Tech Stack)
+
+| Category | Technology |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white) |
+| **Tools** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white) |
+
+---
+
+### 🔭 Currently Working On
+- **Crypto Algo-Trading Bot:** An automated trading engine built with Python & CCXT to handle market volatility.
+- **Pixel-Perfect Clone:** Rebuilding complex UI designs (Spotify/Netflix) using React & Tailwind to sharpen my frontend skills.
+
+---
+
+### 📊 GitHub Stats
+![DarrelDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME_ANDA&show_icons=true&theme=dark&hide_border=true)
