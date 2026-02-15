@@ -23,4 +23,6 @@ I'm a 15-year-old developer from Indonesia. I might be young, but I'm discipline
 ---
 
 ### 📊 GitHub Stats
-![DarrelDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME_ANDA&show_icons=true&theme=dark&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DarrelDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="DarrelDev's GitHub Stats" />
+</div>
