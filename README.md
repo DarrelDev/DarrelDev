@@ -1,7 +1,7 @@
 ### Hi there, I'm Darrel! 👋
 #### *Aspiring Quant Developer & Energy Engineer*
 
-I am a High School student at **SMA Labschool Ciracas** with a strong focus on **Computational Finance** and **Renewable Energy**. I combine algorithms with physical hardware to solve real-world problems—from developing statistical trading engines to engineering hybrid micro-grid systems.
+I am a High School student at **SMA Labschool Ciracas** with a strong focus on **Computational Finance** and **Renewable Energy**. I combine algorithms with physical hardware to solve real-world problems, from developing statistical trading engines to engineering hybrid micro-grid systems.
 
 ---
 
