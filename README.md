@@ -18,7 +18,7 @@ I am a High School student at **SMA Labschool Ciracas** with a strong focus on *
 ### 🔭 Current Research & Projects
 
 - **Quantitative Trading Engine:** Developing a statistical noise-filtering algorithm for crypto markets using Python. [View Repository](https://github.com/DarrelDev/quantitative-trading-engine)
-- **CI/CD Pipeline Observer:** An automated observability engine that monitors build artifacts and pushes real-time status updates via Telegram API. [View Repository](https://github.com/DarrelDev/ci-cd-pipeline-observer)
+- **CI/CD Pipeline Observer:** An automated observability engine that monitors **software releases** and pushes real-time status updates via Telegram API. [View Repository](https://github.com/DarrelDev/ci-cd-pipeline-observer)
 - **Hybrid Micro-Grid System:** (Upcoming) Researching dual-axis solar tracking efficiency and vertical wind turbine integration using Arduino & C++.
 
 ---
